@@ -13,3 +13,4 @@ if input1 == "Colton":
 how_old = input("I know how old you are, do you wanna see? TYPE yes OR no HERE: ")
 if how_old == "yes":
     print(age)
+
